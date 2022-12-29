@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/svg">
+        <file>svg/bomb-solid.svg</file>
+        <file>svg/naval-mine.svg</file>
+        <file>svg/flag.svg</file>
+        <file>svg/naval-mine-cross.svg</file>
+        <file>svg/red-flag.svg</file>
+        <file>svg/explosion.svg</file>
+        <file>svg/smile.svg</file>
+    </qresource>
+</RCC>
